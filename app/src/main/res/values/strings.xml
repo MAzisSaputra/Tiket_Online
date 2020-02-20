@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hello Word</string>
+    <string name="space_traveling">Space Traveling</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="selamat_menempuh_hidup_baru">Selamat Menempuh Hidup Baru</string>
+    <string name="space">Space</string>
+    <string name="travel">Travel</string>
+    <string name="bis">Bis</string>
+    <string name="pesawat">Pesawat</string>
+    <string name="kapal">Kapal</string>
+    <string name="sewa_mobil">Sewa Mobil</string>
+    <string name="ticket">Ticket</string>
+    <string name="kereta_api">Kereta Api</string>
+</resources>
